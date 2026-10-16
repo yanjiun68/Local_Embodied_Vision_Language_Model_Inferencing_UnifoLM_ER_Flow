@@ -1,0 +1,10 @@
+# Ignore everything by default
+/*
+
+# Allow only these directories and their contents
+!/prompts/
+!/llama_cpp/
+!/rc/
+
+# Allow .gitignore itself
+!/.gitignore
