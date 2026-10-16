@@ -1,10 +1,12 @@
 # Ignore everything by default
 /*
+/qwen3v1/.venv
 
 # Allow only these directories and their contents
 !/prompts/
-!/llama_cpp/
 !/rc/
+!/qwen3v1/
+
 
 # Allow .gitignore itself
 !/.gitignore
